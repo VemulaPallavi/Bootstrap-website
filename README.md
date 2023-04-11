@@ -3,7 +3,7 @@ A frontend project using bootstrap
 
 # A Tours and Travel website 
 
-A tours and travels website based on bootstarp and front-end technologies
+A tours and travels agency 
 
 # Live Preview:
 
